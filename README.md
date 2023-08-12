@@ -5,5 +5,5 @@ Game Jam submission for GMTK 23 - Made in Pygame
 
 Source code for my Game Makers Toolkit 2023 game jam entry under the theme "Roles Reversed".
 
-The itch page can be found here: https://frogtesseract.itch.io/abstract-path - Where you can find further details on the game and download the games executable
+The itch page can be found here: https://frogtesseract.itch.io/abstract-path - Where you can find further details on the game and download the games executable.
 
