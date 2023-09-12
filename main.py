@@ -274,7 +274,7 @@ Text_11_rect = Text_11.get_rect(center = (600,575))
 Text_12 = FONT.render("^", False , (30,30,30))
 Text_12_rect = Text_12.get_rect(center = (1100,300))
 
-Text_13 = FONT.render(""" Well Done! You have completed Absrtact Path""", False , (255,255,255))
+Text_13 = FONT.render(""" Well Done! You have completed Abstract Path""", False , (255,255,255))
 Text_13_rect = Text_13.get_rect(center = (600,100))
 
 Text_14 = FONT.render(""" Made by FrogTesseract """, False , (255,255,255))
